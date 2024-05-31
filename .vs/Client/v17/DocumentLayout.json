@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\homePage.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
@@ -49,8 +49,7 @@
               "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\homePage\\homePage\\login.cs [Design]",
               "RelativeToolTip": "homePage\\homePage\\login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T20:24:56.767Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-31T20:24:56.767Z"
             }
           ]
         }
