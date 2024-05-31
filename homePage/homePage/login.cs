@@ -35,7 +35,7 @@ namespace homePage
             if (registeredUsers.ContainsKey(username) && registeredUsers[username] == password)
             {
                 // Usuário está registrado e a senha está correta
-                new Form1().Show();
+                new TelaChat().Show();
                 this.Hide();
             }
             else
@@ -47,8 +47,7 @@ namespace homePage
                 textUsername.Focus();
             }
 
-            Client.TelaChat telaChat = new Client.TelaChat();
-            telaChat.Show();
+            
       
         }
 
