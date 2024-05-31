@@ -33,3 +33,16 @@
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Client\obj\Debug\Client.pdb
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Client\obj\Debug\Client.TelaChat.resources
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Client\obj\Debug\Client.EscolhaNome.resources
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\bin\Debug\Client.exe.config
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\bin\Debug\Client.exe
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\bin\Debug\Client.pdb
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\bin\Debug\ProtocolSI.dll
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.EscolhaNome.resources
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.TelaChat.resources
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.Properties.Resources.resources
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.csproj.GenerateResource.cache
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.csproj.Up2Date
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.exe
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Client\obj\Debug\Client.pdb

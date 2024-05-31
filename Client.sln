@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client/Client.csproj", "{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{ADF5E7BF-BA34-49A0-8E48-F5EFA1AB7854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homePage", "homePage\homePage\homePage.csproj", "{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth", "homePage\homePage\Auth.csproj", "{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

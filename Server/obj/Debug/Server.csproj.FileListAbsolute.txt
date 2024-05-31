@@ -23,3 +23,12 @@
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Server\obj\Debug\Server.csproj.Up2Date
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Server\obj\Debug\Server.exe
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Server\obj\Debug\Server.pdb
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.exe.config
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.exe
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.pdb
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\ProtocolSI.dll
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.Up2Date
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.exe
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.pdb
