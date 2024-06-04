@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homepage\\homepage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homepage\\homepage\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\utils\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\utils\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\utils\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\utils\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\homepage\\homepage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|homePage\\homePage\\Auth.csproj|solutionrelative:homepage\\homepage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|solutionrelative:client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\login.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\login.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\login.cs [Design]",
+              "RelativeToolTip": "homePage\\homePage\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:49:44.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "register.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\register.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\register.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\register.cs",
+              "RelativeToolTip": "homePage\\homePage\\register.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAmwGgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:06:18.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\register.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\register.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\register.cs [Design]",
+              "RelativeToolTip": "homePage\\homePage\\register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:11:21.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\login.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\login.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\login.cs",
+              "RelativeToolTip": "homePage\\homePage\\login.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:56:17.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Models\\Usuario.cs",
+              "RelativeToolTip": "homePage\\homePage\\Models\\Usuario.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:06:57.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "homePage\\homePage\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:05:20.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cryptography.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Utils\\Cryptography.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\Utils\\Cryptography.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Utils\\Cryptography.cs",
+              "RelativeToolTip": "homePage\\homePage\\Utils\\Cryptography.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:10:00.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\login.Designer.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\login.Designer.cs",
+              "RelativeToolTip": "homePage\\homePage\\login.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAlwB8AAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:15:27.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Utils\\Database.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\Utils\\Database.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Utils\\Database.cs",
+              "RelativeToolTip": "homePage\\homePage\\Utils\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:54:32.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Program.cs",
+              "RelativeDocumentMoniker": "homePage\\homePage\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\homePage\\homePage\\Program.cs",
+              "RelativeToolTip": "homePage\\homePage\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:48:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TelaChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs",
+              "RelativeDocumentMoniker": "Client\\TelaChat.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs [Design]",
+              "RelativeToolTip": "Client\\TelaChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T16:10:36.236Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
