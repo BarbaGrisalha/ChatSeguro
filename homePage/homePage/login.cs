@@ -1,41 +1,30 @@
-﻿using Client;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Runtime.Remoting.Channels;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 using System.Windows.Forms;
+using Auth.Controllers;
+using Auth;
+using Client;
 
-namespace homePage
-{/// <summary>
-/// Definimos aqui a tela de login ou inicial
-/// mudamos para um login independente, ou seja , uma tela de login 
-/// que foi incorporada ao programa.
-/// </summary>
-    public partial class login : Form
+
+namespace ChatSeguro.Auth
+{
+    public partial class LoginForm : Form
     {
-        // Armazenar usuários registrados.
-        // por enquanto sem banco de dados e criptografia(hash e salt)
-        public static Dictionary<string, string> registeredUsers = new Dictionary<string, string>();
-        public login()
+        public LoginForm()
         {
             InitializeComponent();
         }
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-             string username = textUsername.Text;
-             string password = textPassword.Text;
-            
-            
-            if (registeredUsers.ContainsKey(username) && registeredUsers[username] == password)
+            string username = textUsername.Text;
+            string password = textPassword.Text;
+
+            // Chama o método Authenticate no AuthController para autenticar o usuário
+            if (AuthController.Authenticate(username, password))
             {
-                // Usuário está registrado e a senha está correta
-                new TelaChat().Show();
+                // Autenticação bem-sucedida, abre a tela principal do cliente
+                var form = new TelaChat();
+                form.Show();
                 this.Hide();
             }
             else
@@ -46,22 +35,18 @@ namespace homePage
                 textPassword.Text = "";
                 textUsername.Focus();
             }
-
-            
-      
         }
 
         private void labelRegister_Click(object sender, EventArgs e)
         {
-            // Abre a janela de registo
-            new register().Show();
+            // Abre a janela de registro
+            new RegisterForm().Show();
             this.Hide();
         }
 
-
         private void buttonClear_Click(object sender, EventArgs e)
         {
-            //Limpa os campos e foca no campo do username
+            // Limpa os campos e foca no campo do username
             textUsername.Text = "";
             textPassword.Text = "";
             textUsername.Focus();
@@ -77,11 +62,6 @@ namespace homePage
             {
                 textPassword.PasswordChar = '●';
             }
-        }
-
-        private void login_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

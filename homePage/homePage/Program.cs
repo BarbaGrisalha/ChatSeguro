@@ -1,10 +1,11 @@
-﻿using System;
+﻿using ChatSeguro.Auth;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace homePage
+namespace Auth
 {
     internal static class Program
     {
@@ -16,7 +17,7 @@ namespace homePage
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new login());
+            Application.Run(new LoginForm());
         }
     }
 }

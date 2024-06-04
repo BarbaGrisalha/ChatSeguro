@@ -1,6 +1,6 @@
-﻿namespace homePage
+﻿namespace Auth
 {
-    partial class register
+    partial class RegisterForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(register));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RegisterForm));
             this.buttonRegister = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.textPassword = new System.Windows.Forms.TextBox();
@@ -42,9 +42,9 @@
             this.label5 = new System.Windows.Forms.Label();
             this.labelConPassword = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.buttonClear = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.labelLogin = new System.Windows.Forms.Label();
-            this.buttonClear = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -56,7 +56,7 @@
             this.buttonRegister.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonRegister.Font = new System.Drawing.Font("Nirmala UI", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonRegister.ForeColor = System.Drawing.Color.White;
-            this.buttonRegister.Location = new System.Drawing.Point(184, 619);
+            this.buttonRegister.Location = new System.Drawing.Point(173, 573);
             this.buttonRegister.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.buttonRegister.Name = "buttonRegister";
             this.buttonRegister.Size = new System.Drawing.Size(435, 61);
@@ -70,10 +70,10 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.SystemColors.Window;
             this.label2.Font = new System.Drawing.Font("Arial", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(178, 347);
+            this.label2.Location = new System.Drawing.Point(170, 327);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(143, 32);
+            this.label2.Size = new System.Drawing.Size(75, 16);
             this.label2.TabIndex = 17;
             this.label2.Text = "Password";
             // 
@@ -82,7 +82,7 @@
             this.textPassword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(231)))), ((int)(((byte)(233)))));
             this.textPassword.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textPassword.Font = new System.Drawing.Font("MS UI Gothic", 19.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textPassword.Location = new System.Drawing.Point(184, 384);
+            this.textPassword.Location = new System.Drawing.Point(176, 364);
             this.textPassword.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textPassword.Multiline = true;
             this.textPassword.Name = "textPassword";
@@ -95,10 +95,10 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.SystemColors.Window;
             this.label1.Font = new System.Drawing.Font("Arial", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(178, 211);
+            this.label1.Location = new System.Drawing.Point(170, 191);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(148, 32);
+            this.label1.Size = new System.Drawing.Size(78, 16);
             this.label1.TabIndex = 15;
             this.label1.Text = "Username";
             // 
@@ -107,7 +107,7 @@
             this.textUsername.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(231)))), ((int)(((byte)(233)))));
             this.textUsername.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textUsername.Font = new System.Drawing.Font("MS UI Gothic", 19.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textUsername.Location = new System.Drawing.Point(184, 259);
+            this.textUsername.Location = new System.Drawing.Point(176, 239);
             this.textUsername.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textUsername.Multiline = true;
             this.textUsername.Name = "textUsername";
@@ -119,10 +119,10 @@
             this.labelWarning.AutoSize = true;
             this.labelWarning.Font = new System.Drawing.Font("Arial", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelWarning.ForeColor = System.Drawing.Color.Red;
-            this.labelWarning.Location = new System.Drawing.Point(246, 307);
+            this.labelWarning.Location = new System.Drawing.Point(238, 287);
             this.labelWarning.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelWarning.Name = "labelWarning";
-            this.labelWarning.Size = new System.Drawing.Size(97, 32);
+            this.labelWarning.Size = new System.Drawing.Size(51, 16);
             this.labelWarning.TabIndex = 21;
             this.labelWarning.Text = "Errors";
             this.labelWarning.Visible = false;
@@ -135,7 +135,7 @@
             this.label3.Location = new System.Drawing.Point(227, 143);
             this.label3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(331, 53);
+            this.label3.Size = new System.Drawing.Size(177, 27);
             this.label3.TabIndex = 22;
             this.label3.Text = "Get Started";
             // 
@@ -144,10 +144,10 @@
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.SystemColors.Window;
             this.label4.Font = new System.Drawing.Font("Arial", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(178, 479);
+            this.label4.Location = new System.Drawing.Point(170, 459);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(259, 32);
+            this.label4.Size = new System.Drawing.Size(134, 16);
             this.label4.TabIndex = 24;
             this.label4.Text = "Confirm Password";
             // 
@@ -156,14 +156,13 @@
             this.textConPassword.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(231)))), ((int)(((byte)(233)))));
             this.textConPassword.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textConPassword.Font = new System.Drawing.Font("MS UI Gothic", 19.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textConPassword.Location = new System.Drawing.Point(184, 516);
+            this.textConPassword.Location = new System.Drawing.Point(176, 496);
             this.textConPassword.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textConPassword.Multiline = true;
             this.textConPassword.Name = "textConPassword";
             this.textConPassword.PasswordChar = '●';
             this.textConPassword.Size = new System.Drawing.Size(435, 43);
             this.textConPassword.TabIndex = 23;
-            this.textConPassword.Enter += new System.EventHandler(this.textConPassword_Enter);
             // 
             // checkBoxShowPas
             // 
@@ -171,9 +170,9 @@
             this.checkBoxShowPas.Cursor = System.Windows.Forms.Cursors.Hand;
             this.checkBoxShowPas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.checkBoxShowPas.Font = new System.Drawing.Font("Nirmala UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBoxShowPas.Location = new System.Drawing.Point(337, 567);
+            this.checkBoxShowPas.Location = new System.Drawing.Point(329, 547);
             this.checkBoxShowPas.Name = "checkBoxShowPas";
-            this.checkBoxShowPas.Size = new System.Drawing.Size(282, 49);
+            this.checkBoxShowPas.Size = new System.Drawing.Size(143, 25);
             this.checkBoxShowPas.TabIndex = 25;
             this.checkBoxShowPas.Text = "Show Password";
             this.checkBoxShowPas.UseVisualStyleBackColor = true;
@@ -182,9 +181,9 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(245, 787);
+            this.label5.Location = new System.Drawing.Point(317, 705);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(340, 37);
+            this.label5.Size = new System.Drawing.Size(179, 19);
             this.label5.TabIndex = 26;
             this.label5.Text = "Already Have an Account";
             // 
@@ -193,10 +192,10 @@
             this.labelConPassword.AutoSize = true;
             this.labelConPassword.Font = new System.Drawing.Font("Arial", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelConPassword.ForeColor = System.Drawing.Color.Red;
-            this.labelConPassword.Location = new System.Drawing.Point(187, 447);
+            this.labelConPassword.Location = new System.Drawing.Point(179, 427);
             this.labelConPassword.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelConPassword.Name = "labelConPassword";
-            this.labelConPassword.Size = new System.Drawing.Size(194, 32);
+            this.labelConPassword.Size = new System.Drawing.Size(102, 16);
             this.labelConPassword.TabIndex = 27;
             this.labelConPassword.Text = "labelConPass";
             this.labelConPassword.Visible = false;
@@ -219,10 +218,22 @@
             this.panel1.Controls.Add(this.buttonRegister);
             this.panel1.Controls.Add(this.labelWarning);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel1.Location = new System.Drawing.Point(954, 0);
+            this.panel1.Location = new System.Drawing.Point(775, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(769, 978);
+            this.panel1.Size = new System.Drawing.Size(611, 788);
             this.panel1.TabIndex = 28;
+            // 
+            // buttonClear
+            // 
+            this.buttonClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonClear.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
+            this.buttonClear.Location = new System.Drawing.Point(173, 642);
+            this.buttonClear.Name = "buttonClear";
+            this.buttonClear.Size = new System.Drawing.Size(435, 60);
+            this.buttonClear.TabIndex = 30;
+            this.buttonClear.Text = "CLEAR";
+            this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // pictureBox1
             // 
@@ -241,41 +252,29 @@
             this.labelLogin.Cursor = System.Windows.Forms.Cursors.Hand;
             this.labelLogin.Font = new System.Drawing.Font("Nirmala UI", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelLogin.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
-            this.labelLogin.Location = new System.Drawing.Point(304, 833);
+            this.labelLogin.Location = new System.Drawing.Point(366, 735);
             this.labelLogin.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelLogin.Name = "labelLogin";
-            this.labelLogin.Size = new System.Drawing.Size(201, 37);
+            this.labelLogin.Size = new System.Drawing.Size(106, 19);
             this.labelLogin.TabIndex = 28;
             this.labelLogin.Text = "Back to LOGIN";
             this.labelLogin.Click += new System.EventHandler(this.labelLogin_Click);
             // 
-            // buttonClear
-            // 
-            this.buttonClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonClear.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
-            this.buttonClear.Location = new System.Drawing.Point(184, 697);
-            this.buttonClear.Name = "buttonClear";
-            this.buttonClear.Size = new System.Drawing.Size(435, 60);
-            this.buttonClear.TabIndex = 30;
-            this.buttonClear.Text = "CLEAR";
-            this.buttonClear.UseVisualStyleBackColor = true;
-            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
-            // 
-            // register
+            // RegisterForm
             // 
             this.AcceptButton = this.buttonRegister;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 37F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Window;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1723, 978);
+            this.ClientSize = new System.Drawing.Size(1386, 788);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Nirmala UI", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(164)))), ((int)(((byte)(165)))), ((int)(((byte)(169)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Name = "register";
+            this.Name = "RegisterForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "register";
             this.panel1.ResumeLayout(false);

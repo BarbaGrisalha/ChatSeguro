@@ -1,19 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using Auth.Controllers;
+using Auth;
+using ChatSeguro.Auth;
 
-namespace homePage
+namespace Auth
 {
-    public partial class register : Form
+    public partial class RegisterForm : Form
     {
-        
-        public register()
+        public RegisterForm()
         {
             InitializeComponent();
         }
@@ -29,29 +26,31 @@ namespace homePage
 
             if (errors.Any())
             {
-                
                 foreach (string erro in errors)
                 {
                     labelWarning.Text += $"\n{erro}";
                 }
                 labelWarning.Visible = true;
             }
-
-            else if(PasswordValidator.ComparePasswords(password,password2))
+            else if (PasswordValidator.ComparePasswords(password, password2))
             {
                 labelConPassword.Text = "";
-
-                labelConPassword.Text = "Passwords doest not match, Please Re-enter";
+                labelConPassword.Text = "Passwords do not match, Please Re-enter";
                 textPassword.Text = "";
                 textConPassword.Text = "";
                 textPassword.Focus();
-
                 labelConPassword.Visible = true;
             }
             else
             {
-                login.registeredUsers.Add(username, password);
+                // Chama o método Register no AuthController para registrar o usuário
+                AuthController.Register(username, password);
                 MessageBox.Show("Usuário criado com sucesso");
+
+                textUsername.Text = "";
+                textPassword.Text = "";
+                textConPassword.Text = "";
+                textUsername.Focus();
             }
         }
 
@@ -71,13 +70,12 @@ namespace homePage
                 }
                 labelWarning.Visible = true;
             }
-
         }
 
         private void labelLogin_Click(object sender, EventArgs e)
         {
             // Abre a janela de login
-            new login().Show();
+            new LoginForm().Show();
             this.Hide();
         }
 
@@ -86,6 +84,7 @@ namespace homePage
             if (checkBoxShowPas.Checked)
             {
                 textPassword.PasswordChar = '\0';
+                textConPassword.PasswordChar = '\0';
             }
             else
             {
@@ -96,11 +95,13 @@ namespace homePage
 
         private void buttonClear_Click(object sender, EventArgs e)
         {
-            //Limpa os campos e foca no campo do username
+            // Limpa os campos e foca no campo do username
             textUsername.Text = "";
             textPassword.Text = "";
             textConPassword.Text = "";
             textUsername.Focus();
         }
+
+        
     }
 }
