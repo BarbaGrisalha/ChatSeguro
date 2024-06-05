@@ -16,7 +16,7 @@ namespace Auth.Controllers
             string passwordHash = Cryptography.GenerateHash(password, salt);
 
             // Conexão com o banco de dados
-            string connectionString = "server=localhost;user=root;database=ChatSeguroDB;port=3306;password=zezinho";
+            string connectionString = "server=192.168.1.170;user=root;database=ChatSeguroDB;port=3306;password=zezinho";
             using (var connection = new MySqlConnection(connectionString))
             {
                 connection.Open(); // Abre a conexão com o banco de dados
@@ -36,7 +36,7 @@ namespace Auth.Controllers
         public static bool Authenticate(string username, string password)
         {
             // Conexão com o banco de dados
-            string connectionString = "server=localhost;user=root;database=ChatSeguroDB;port=3306;password=zezinho";
+            string connectionString = "server=192.168.1.170;user=root;database=ChatSeguroDB;port=3306;password=zezinho";
             using (var connection = new MySqlConnection(connectionString))
             {
                 connection.Open(); // Abre a conexão com o banco de dados

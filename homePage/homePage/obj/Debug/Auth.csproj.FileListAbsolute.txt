@@ -45,9 +45,7 @@
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\bin\Debug\System.Threading.Tasks.Extensions.xml
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\Auth.csproj.AssemblyReference.cache
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\homePage.login.resources
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\homePage.Properties.Resources.resources
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\homePage.register.resources
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\Auth.csproj.GenerateResource.cache
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\Auth.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\Auth.csproj.Up2Date
@@ -108,3 +106,5 @@ C:\Users\lucas\Documents\projetosClonados\ChatSeguro\homePage\homePage\obj\Debug
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\homePage\homePage\obj\Debug\homePage.pdb
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\homePage\homePage\obj\Debug\ChatSeguro.Auth.LoginForm.resources
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\homePage\homePage\obj\Debug\Auth.RegisterForm.resources
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\ChatSeguro.Auth.LoginForm.resources
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\homePage\homePage\obj\Debug\Auth.RegisterForm.resources

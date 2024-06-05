@@ -55,7 +55,7 @@
             this.label3.Location = new System.Drawing.Point(277, 156);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(177, 27);
+            this.label3.Size = new System.Drawing.Size(331, 53);
             this.label3.TabIndex = 12;
             this.label3.Text = "Get Started";
             // 
@@ -83,7 +83,7 @@
             this.label2.Location = new System.Drawing.Point(181, 386);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(75, 16);
+            this.label2.Size = new System.Drawing.Size(143, 32);
             this.label2.TabIndex = 10;
             this.label2.Text = "Password";
             // 
@@ -109,7 +109,7 @@
             this.label1.Location = new System.Drawing.Point(181, 269);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(78, 16);
+            this.label1.Size = new System.Drawing.Size(148, 32);
             this.label1.TabIndex = 8;
             this.label1.Text = "Username";
             // 
@@ -140,7 +140,7 @@
             this.checkBoxShowPas.Font = new System.Drawing.Font("Nirmala UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBoxShowPas.Location = new System.Drawing.Point(340, 482);
             this.checkBoxShowPas.Name = "checkBoxShowPas";
-            this.checkBoxShowPas.Size = new System.Drawing.Size(143, 25);
+            this.checkBoxShowPas.Size = new System.Drawing.Size(282, 49);
             this.checkBoxShowPas.TabIndex = 16;
             this.checkBoxShowPas.Text = "Show Password";
             this.checkBoxShowPas.UseVisualStyleBackColor = true;
@@ -151,7 +151,7 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(307, 684);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(158, 19);
+            this.label5.Size = new System.Drawing.Size(304, 37);
             this.label5.TabIndex = 27;
             this.label5.Text = "Dont Have an Account";
             // 
@@ -170,9 +170,9 @@
             this.panel1.Controls.Add(this.buttonLogin);
             this.panel1.Controls.Add(this.textUsername);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel1.Location = new System.Drawing.Point(843, 0);
+            this.panel1.Location = new System.Drawing.Point(860, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(543, 788);
+            this.panel1.Size = new System.Drawing.Size(806, 788);
             this.panel1.TabIndex = 28;
             // 
             // buttonClear
@@ -207,19 +207,19 @@
             this.labelRegister.ForeColor = System.Drawing.Color.LimeGreen;
             this.labelRegister.Location = new System.Drawing.Point(333, 715);
             this.labelRegister.Name = "labelRegister";
-            this.labelRegister.Size = new System.Drawing.Size(111, 19);
+            this.labelRegister.Size = new System.Drawing.Size(213, 37);
             this.labelRegister.TabIndex = 28;
             this.labelRegister.Text = "Create Account";
             this.labelRegister.Click += new System.EventHandler(this.labelRegister_Click);
             // 
             // LoginForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1386, 788);
+            this.ClientSize = new System.Drawing.Size(1666, 788);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Nirmala UI", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(164)))), ((int)(((byte)(165)))), ((int)(((byte)(169)))));
