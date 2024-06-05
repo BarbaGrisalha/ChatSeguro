@@ -23,15 +23,6 @@
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Server\obj\Debug\Server.csproj.Up2Date
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Server\obj\Debug\Server.exe
 \\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\PreProjetoChatSeguro\Server\obj\Debug\Server.pdb
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.exe.config
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.exe
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.pdb
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\ProtocolSI.dll
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.AssemblyReference.cache
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.Up2Date
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.exe
-\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.pdb
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\Server.exe.config
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\Server.exe
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\Server.pdb
@@ -75,6 +66,9 @@ C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\System.Mem
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.exe.config
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.exe
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Server.pdb
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\BouncyCastle.Cryptography.dll
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\EntityFramework.dll
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\EntityFramework.SqlServer.dll
@@ -84,6 +78,7 @@ C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\System.Thr
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\K4os.Hash.xxHash.dll
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\MySql.Data.dll
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\ProtocolSI.dll
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\System.Buffers.dll
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\System.Configuration.ConfigurationManager.dll
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
@@ -110,3 +105,8 @@ C:\Users\lucas\Documents\projetosClonados\ChatSeguro\Server\bin\Debug\System.Thr
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\System.Numerics.Vectors.xml
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 \\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.csproj.Up2Date
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.exe
+\\Mac\Home\Documents\ProjetosClonados\ChatSeguro\Server\obj\Debug\Server.pdb
