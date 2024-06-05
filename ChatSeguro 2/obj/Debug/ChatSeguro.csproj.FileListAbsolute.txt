@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\bin\Debug\ChatSeguro.exe.config
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\bin\Debug\ChatSeguro.exe
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\bin\Debug\ChatSeguro.pdb
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\obj\Debug\ChatSeguro.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\obj\Debug\ChatSeguro.Properties.Resources.resources
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\obj\Debug\ChatSeguro.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\obj\Debug\ChatSeguro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\obj\Debug\ChatSeguro.exe
+\\Mac\Home\Documents\Faculdade\Segurança\Projetos\FichaPratica3\ChatSeguro 2\obj\Debug\ChatSeguro.pdb
