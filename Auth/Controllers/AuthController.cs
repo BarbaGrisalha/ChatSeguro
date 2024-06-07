@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Data;
 using MySql.Data.MySqlClient;
-using ChatSeguro.Auth.Utils;
+using Auth.Utils;
+using Auth.Models;
 
 namespace Auth.Controllers
 {
@@ -16,8 +17,7 @@ namespace Auth.Controllers
             string passwordHash = Cryptography.GenerateHash(password, salt);
 
             // Conexão com o banco de dados
-            string connectionString = "server=192.168.1.170;user=root;database=ChatSeguroDB;port=3306;password=zezinho";
-            using (var connection = new MySqlConnection(connectionString))
+            using (var connection = new MySqlConnection(Usuario.connectionString))
             {
                 connection.Open(); // Abre a conexão com o banco de dados
                 string query = "INSERT INTO usuarios (username, password_hash, salt) VALUES (@username, @password_hash, @salt)";
@@ -32,12 +32,29 @@ namespace Auth.Controllers
             }
         }
 
+        // Método para verificar se um username já existe no banco de dados
+        public static bool UsernameExists(string username)
+        {
+            // Conexão com o banco de dados
+            using (var connection = new MySqlConnection(Usuario.connectionString))
+            {
+                connection.Open(); // Abre a conexão com o banco de dados
+                string query = "SELECT COUNT(*) FROM usuarios WHERE username = @username";
+                using (var cmd = new MySqlCommand(query, connection))
+                {
+                    // Adiciona os parâmetros ao comando SQL
+                    cmd.Parameters.AddWithValue("@username", username);
+                    return Convert.ToInt32(cmd.ExecuteScalar()) > 0; // Retorna verdadeiro se o count for maior que 0
+                }
+            }
+        }
+
         // Método para autenticar um usuário
         public static bool Authenticate(string username, string password)
         {
             // Conexão com o banco de dados
-            string connectionString = "server=192.168.1.170;user=root;database=ChatSeguroDB;port=3306;password=zezinho";
-            using (var connection = new MySqlConnection(connectionString))
+
+            using (var connection = new MySqlConnection(Usuario.connectionString))
             {
                 connection.Open(); // Abre a conexão com o banco de dados
                 string query = "SELECT password_hash, salt FROM usuarios WHERE username = @username";
@@ -62,5 +79,6 @@ namespace Auth.Controllers
             }
             return false; // Retorna falso se o usuário não for encontrado ou a senha estiver incorreta
         }
+
     }
 }

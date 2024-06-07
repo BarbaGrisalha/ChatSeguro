@@ -1,7 +1,7 @@
 ﻿using System;
 using MySql.Data.MySqlClient;
 
-namespace ChatSeguro.Auth.Utils
+namespace Auth.Utils
 {
     public static class Database
     {

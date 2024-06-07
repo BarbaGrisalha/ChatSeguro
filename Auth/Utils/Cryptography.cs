@@ -2,7 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace ChatSeguro.Auth.Utils
+namespace Auth.Utils
 {
     public static class Cryptography
     {
