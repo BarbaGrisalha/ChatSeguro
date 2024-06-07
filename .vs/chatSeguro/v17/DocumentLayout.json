@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|solutionrelative:client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ADF5E7BF-BA34-49A0-8E48-F5EFA1AB7854}|Server\\Server.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\server\\servidorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF5E7BF-BA34-49A0-8E48-F5EFA1AB7854}|Server\\Server.csproj|solutionrelative:server\\servidorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|solutionrelative:client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\client\\telachat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|solutionrelative:client\\telachat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADF5E7BF-BA34-49A0-8E48-F5EFA1AB7854}|Server\\Server.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\server\\servidorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADF5E7BF-BA34-49A0-8E48-F5EFA1AB7854}|Server\\Server.csproj|solutionrelative:server\\servidorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TelaChat.Designer.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.Designer.cs",
               "RelativeDocumentMoniker": "Client\\TelaChat.Designer.cs",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Client\\TelaChat.Designer.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAArwCcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T19:54:50.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T19:54:50.631Z"
             },
             {
               "$type": "Document",
@@ -57,32 +56,31 @@
               "RelativeDocumentMoniker": "Client\\TelaChat.cs",
               "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs",
               "RelativeToolTip": "Client\\TelaChat.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAmwFgAAAAAAAAA",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAcwJAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T18:25:31.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TelaChat.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs",
               "RelativeDocumentMoniker": "Client\\TelaChat.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs [Design]",
-              "RelativeToolTip": "Client\\TelaChat.cs [Design]",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs [Design]*",
+              "RelativeToolTip": "Client\\TelaChat.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T18:01:59.88Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-07T18:01:59.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ServidorProgram.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Server\\ServidorProgram.cs",
               "RelativeDocumentMoniker": "Server\\ServidorProgram.cs",
               "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Server\\ServidorProgram.cs",
               "RelativeToolTip": "Server\\ServidorProgram.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBAAAAAFAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T18:23:55.874Z"
             }
