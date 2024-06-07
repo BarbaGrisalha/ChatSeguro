@@ -1,39 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|solutionrelative:client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|c:\\users\\lucas\\documents\\projetosclonados\\chatseguro\\client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|solutionrelative:client\\telachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\client\\telachat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE8FDCB-39F2-487B-8CF7-9E45B1803761}|Client\\Client.csproj|solutionrelative:client\\telachat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\views\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\utils\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\utils\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\utils\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\views\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F2679ED-7C6D-44E7-BDE4-6987D34F8A08}|Auth\\Auth.csproj|\\\\mac\\home\\documents\\projetosclonados\\chatseguro\\auth\\views\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADF5E7BF-BA34-49A0-8E48-F5EFA1AB7854}|Server\\Server.csproj|C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\server\\servidorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF5E7BF-BA34-49A0-8E48-F5EFA1AB7854}|Server\\Server.csproj|solutionrelative:server\\servidorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +25,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
+          "DockedHeight": 317,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -55,144 +38,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Program.cs",
-              "RelativeDocumentMoniker": "Auth\\Program.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Program.cs",
-              "RelativeToolTip": "Auth\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T02:01:51.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Database.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Utils\\Database.cs",
-              "RelativeDocumentMoniker": "Auth\\Utils\\Database.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Utils\\Database.cs",
-              "RelativeToolTip": "Auth\\Utils\\Database.cs",
-              "ViewState": "AQIAAAAAAAC4MzMzMzMLwAMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:31:54.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "login.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\login.cs",
-              "RelativeDocumentMoniker": "Auth\\Views\\login.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\login.cs [Design]",
-              "RelativeToolTip": "Auth\\Views\\login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:26:29.563Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "register.Designer.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\register.Designer.cs",
-              "RelativeDocumentMoniker": "Auth\\Views\\register.Designer.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\register.Designer.cs",
-              "RelativeToolTip": "Auth\\Views\\register.Designer.cs",
-              "ViewState": "AQIAAOsAAAAAAAAAAAAswO4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:15:50.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PasswordValidator.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Utils\\PasswordValidator.cs",
-              "RelativeDocumentMoniker": "Auth\\Utils\\PasswordValidator.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Utils\\PasswordValidator.cs",
-              "RelativeToolTip": "Auth\\Utils\\PasswordValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T23:34:15.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "register.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\register.cs",
-              "RelativeDocumentMoniker": "Auth\\Views\\register.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\register.cs [Design]",
-              "RelativeToolTip": "Auth\\Views\\register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T18:50:37.931Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "register.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\register.cs",
-              "RelativeDocumentMoniker": "Auth\\Views\\register.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\register.cs",
-              "RelativeToolTip": "Auth\\Views\\register.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T01:01:10.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Auth\\Controllers\\AuthController.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Auth\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDcAAAAAAAAA",
+              "Title": "TelaChat.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\TelaChat.Designer.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.Designer.cs",
+              "RelativeToolTip": "Client\\TelaChat.Designer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAArwDoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T18:53:39.066Z",
+              "WhenOpened": "2024-06-07T19:54:50.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "login.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\login.cs",
-              "RelativeDocumentMoniker": "Auth\\Views\\login.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Views\\login.cs",
-              "RelativeToolTip": "Auth\\Views\\login.cs",
-              "ViewState": "AQIAAA4AAABAm5mZmdkpwAAAAAAAAAAA",
+              "Title": "TelaChat.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs",
+              "RelativeDocumentMoniker": "Client\\TelaChat.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs",
+              "RelativeToolTip": "Client\\TelaChat.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAIwHgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T23:39:33.784Z",
+              "WhenOpened": "2024-06-07T18:25:31.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Auth\\Models\\Usuario.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Models\\Usuario.cs",
-              "RelativeToolTip": "Auth\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "TelaChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs",
+              "RelativeDocumentMoniker": "Client\\TelaChat.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Client\\TelaChat.cs [Design]",
+              "RelativeToolTip": "Client\\TelaChat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T00:38:31.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T18:01:59.88Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cryptography.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Utils\\Cryptography.cs",
-              "RelativeDocumentMoniker": "Auth\\Utils\\Cryptography.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\ProjetosClonados\\ChatSeguro\\Auth\\Utils\\Cryptography.cs",
-              "RelativeToolTip": "Auth\\Utils\\Cryptography.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "DocumentIndex": 3,
+              "Title": "ServidorProgram.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Server\\ServidorProgram.cs",
+              "RelativeDocumentMoniker": "Server\\ServidorProgram.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\projetosClonados\\ChatSeguro\\Server\\ServidorProgram.cs",
+              "RelativeToolTip": "Server\\ServidorProgram.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T00:53:35.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T18:23:55.874Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

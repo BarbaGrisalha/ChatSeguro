@@ -39,35 +39,41 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(106, 69);
+            this.label1.Location = new System.Drawing.Point(53, 36);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(302, 25);
+            this.label1.Size = new System.Drawing.Size(150, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Texto a enviar para o Servidor";
             // 
             // textBox1_Message
             // 
-            this.textBox1_Message.Location = new System.Drawing.Point(111, 264);
+            this.textBox1_Message.Location = new System.Drawing.Point(56, 137);
+            this.textBox1_Message.Margin = new System.Windows.Forms.Padding(2);
             this.textBox1_Message.Multiline = true;
             this.textBox1_Message.Name = "textBox1_Message";
-            this.textBox1_Message.Size = new System.Drawing.Size(508, 258);
+            this.textBox1_Message.Size = new System.Drawing.Size(256, 136);
             this.textBox1_Message.TabIndex = 4;
             // 
             // buttonSend
             // 
-            this.buttonSend.Location = new System.Drawing.Point(649, 145);
+            this.buttonSend.Location = new System.Drawing.Point(324, 75);
+            this.buttonSend.Margin = new System.Windows.Forms.Padding(2);
             this.buttonSend.Name = "buttonSend";
-            this.buttonSend.Size = new System.Drawing.Size(114, 57);
+            this.buttonSend.Size = new System.Drawing.Size(57, 30);
             this.buttonSend.TabIndex = 2;
             this.buttonSend.Text = "Enviar";
             this.buttonSend.UseVisualStyleBackColor = true;
-           // this.buttonSend.Click += new System.EventHandler(this.buttonSend_Click);
+            // Substitua no designer
+            this.buttonSend.Click += new System.EventHandler(this.buttonSend_ClickAsync);
+
             // 
             // buttonSair
             // 
-            this.buttonSair.Location = new System.Drawing.Point(649, 469);
+            this.buttonSair.Location = new System.Drawing.Point(324, 244);
+            this.buttonSair.Margin = new System.Windows.Forms.Padding(2);
             this.buttonSair.Name = "buttonSair";
-            this.buttonSair.Size = new System.Drawing.Size(114, 53);
+            this.buttonSair.Size = new System.Drawing.Size(57, 28);
             this.buttonSair.TabIndex = 3;
             this.buttonSair.Text = "Sair";
             this.buttonSair.UseVisualStyleBackColor = true;
@@ -75,33 +81,37 @@
             // 
             // textBoxSendMessenger
             // 
-            this.textBoxSendMessenger.Location = new System.Drawing.Point(111, 119);
+            this.textBoxSendMessenger.Location = new System.Drawing.Point(56, 62);
+            this.textBoxSendMessenger.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxSendMessenger.Multiline = true;
             this.textBoxSendMessenger.Name = "textBoxSendMessenger";
-            this.textBoxSendMessenger.Size = new System.Drawing.Size(508, 83);
+            this.textBoxSendMessenger.Size = new System.Drawing.Size(256, 45);
             this.textBoxSendMessenger.TabIndex = 1;
+            this.textBoxSendMessenger.TabStop = false;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(106, 221);
+            this.label2.Location = new System.Drawing.Point(53, 115);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(214, 25);
+            this.label2.Size = new System.Drawing.Size(106, 13);
             this.label2.TabIndex = 5;
             this.label2.Text = "Histórico Mensagens";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // TelaChat
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(851, 534);
+            this.ClientSize = new System.Drawing.Size(426, 278);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBoxSendMessenger);
             this.Controls.Add(this.buttonSair);
             this.Controls.Add(this.buttonSend);
             this.Controls.Add(this.textBox1_Message);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "TelaChat";
             this.Text = "Form1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);

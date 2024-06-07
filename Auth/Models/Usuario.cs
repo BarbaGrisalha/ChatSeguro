@@ -71,7 +71,7 @@ namespace Auth.Models
         }
         public static class DatabaseConnection
         {
-           public static string ConnectionString { get; } = "server=192.168.1.170;user=root;database=ChatSeguroDB;port=3306;password=zezinho";
+           public static string ConnectionString { get; } = "server=localhost;user=root;database=ChatSeguroDB;port=3306;password=zezinho";
         }
     }
 }
